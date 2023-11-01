@@ -1,7 +1,6 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
-import 'package:twitter_x_project/bottom%20nav%20screens/notificationScreen.dart';
-import 'package:twitter_x_project/bottom%20nav%20screens/searchScreen.dart';
-import 'package:twitter_x_project/models/tweet.dart';
 import 'package:twitter_x_project/screens/groups.dart';
 import 'package:twitter_x_project/screens/home_screen.dart';
 import 'package:twitter_x_project/screens/message_screen.dart';

@@ -19,6 +19,7 @@ dependencies:
   scroll_to_hide: ^2.0.1
 
 dev_dependencies:
+  http:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
